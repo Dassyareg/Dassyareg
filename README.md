@@ -1,4 +1,4 @@
-- 👋 Hi, I’m sageX
+- 👋 Hi, I’m @sageX
 - 👀 I’m interested in Everything
 - 🌱 I’m currently learning Golang, Java and C++
 - 💞️ I’m looking to collaborate on DevOps
