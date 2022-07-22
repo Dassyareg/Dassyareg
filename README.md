@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Dassyareg
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning Node Js
-- 💞️ I’m looking to collaborate on Web development
+- 👋 Hi, I’m sageX
+- 👀 I’m interested in Everything
+- 🌱 I’m currently learning Golang, Java and C++
+- 💞️ I’m looking to collaborate on DevOps
 - 📫 How to reach me dassyareg@gmail.com
 
 <!---
